@@ -1,78 +1,101 @@
-<h1 align="center">Hi 👋, I'm Sulakshana Sraavya</h1>
-<h3 align="center">A dedicated GitHub user with a passion for AI and machine learning.</h3>
+# Hi there! 👋 I'm Sulakshana Sraavya
 
-- My primary coding language is Python, which I leverage to create impactful projects in the data science and natural language processing domains.
-- With a strong interest in exploring new technologies and collaborating with the GitHub community, I aim to continue expanding my skill set.
-- 🌱 I’m currently learning **Flask and advanced RAG**
+### 🚀 AI and Data Science Enthusiast 
 
-<h3 align="left">Connect with me:</h3>
+Welcome to my GitHub profile! I'm a passionate developer specializing in **Artificial Intelligence** and **Machine Learning**, with a strong focus on creating impactful solutions in data science and natural language processing.
+
+---
+
+## 🎯 About Me
+
+- 🔭 **Currently working on:** AI Agents systems and FastAPI
+- 🌱 **Learning:** FastAPI, advanced RAG techniques, and cutting-edge ML methodologies
+- 💡 **Passionate about:** Building AI-powered solutions that solve real-world problems
+- 🎓 **Focus areas:** Data Science, NLP, Machine Learning, and Web Development
+- 📍 **Location:** Visakhapatnam, Andhra Pradesh, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
 <p align="left">
-<a href="https://www.linkedin.com/in/andukuri-sulakshana-sraavya-899902283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andukuri sulakshana sraavya" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+### AI/ML & Data Science
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+</p>
+
+### Web Development & Databases
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+</p>
+
+### Tools & Version Control
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+</p>
+
+---
+
+## 🎯 What I Do
+
+- **🤖 AI/ML Development:** Building intelligent systems using TensorFlow and scikit-learn
+- **📊 Data Analysis:** Extracting insights from complex datasets using Pandas and visualization tools
+- **🔍 NLP Projects:** Working on natural language processing solutions and RAG systems
+- **🌐 Web Applications:** Creating dynamic web apps with FastAPI and Flask
+- **📈 Data Visualization:** Crafting compelling data stories with Seaborn and other visualization tools
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sraavya17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sraavya17&layout=compact&theme=tokyonight&langs_count=8)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sraavya17&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on innovative projects, especially those involving AI, data science, or web development. Feel free to reach out!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/andukuri-sulakshana-sraavya-899902283/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="40" />
   </a>
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-</p>
+---
 
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sraavya17&show_icons=true&locale=en&layout=compact" alt="sraavya17" />
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sraavya17&show_icons=true&locale=en" alt="sraavya17" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sraavya17&" alt="sraavya17" />
-</p>
-
+<div align="center">
+  
+  **Thanks for visiting my profile! ⭐ Star some repositories if you find them interesting!**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=sraavya17&color=brightgreen&style=flat-square)
+  
+</div>
