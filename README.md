@@ -1,22 +1,22 @@
 # Hi there! 👋 I'm Sulakshana Sraavya
 
-### 🚀 AI and Data Science Enthusiast 
+### Aspiring Software Developer
 
-Welcome to my GitHub profile! I'm a passionate developer specializing in **Artificial Intelligence** and **Machine Learning**, with a strong focus on creating impactful solutions in data science and natural language processing.
-
----
-
-## 🎯 About Me
-
-- 🔭 **Currently working on:** AI Agents systems and FastAPI
-- 🌱 **Learning:** FastAPI, advanced RAG techniques, and cutting-edge ML methodologies
-- 💡 **Passionate about:** Building AI-powered solutions that solve real-world problems
-- 🎓 **Focus areas:** Data Science, NLP, Machine Learning, and Web Development
-- 📍 **Location:** Visakhapatnam, Andhra Pradesh, India
+Welcome to my GitHub profile! I'm an aspiring developer working on **Java Full Stack** and **AI/ML**, with a strong focus on creating impactful solutions in data science and natural language processing.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- **Currently working on:** FinTrack project
+- **Learning:** React, Springboot, RestAPI, LLMs
+- **Passionate about:** Building AI-powered solutions that solve real-world problems
+- **Focus areas:** Web Development, AI/ML, Data Science
+- **Location:** Visakhapatnam, Andhra Pradesh, India
+
+---
+
+## Tech Stack
 
 ### Programming Languages
 <p align="left">
@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **Artif
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
 </p>
@@ -39,8 +40,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **Artif
 
 ### Web Development & Databases
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="FastAPI" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
 </p>
 
@@ -53,17 +53,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **Artif
 
 ---
 
-## 🎯 What I Do
-
-- **🤖 AI/ML Development:** Building intelligent systems using TensorFlow and scikit-learn
-- **📊 Data Analysis:** Extracting insights from complex datasets using Pandas and visualization tools
-- **🔍 NLP Projects:** Working on natural language processing solutions and RAG systems
-- **🌐 Web Applications:** Creating dynamic web apps with FastAPI and Flask
-- **📈 Data Visualization:** Crafting compelling data stories with Seaborn and other visualization tools
-
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -77,16 +67,13 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **Artif
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always excited to collaborate on innovative projects, especially those involving AI, data science, or web development. Feel free to reach out!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andukuri-sulakshana-sraavya-899902283/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /> 
   </a>
 </p>
 
